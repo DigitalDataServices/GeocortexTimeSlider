@@ -1,10 +1,11 @@
-## Geocortex Time Slider Component ##
+# Geocortex Time Slider Component #
 
 
 ### Description ###
 
-This free JavaScript library for the Geocortex HTML5 Viewer gives you the ability to embed a 'Time Slider' widget within your Geocortex HTML5 Viewer Map.  
+This free JavaScript library that adds the ability to embed a 'Time Slider' widget within your Geocortex Viewer for HTML5.  
 
+![TimeSlider Widget](https://raw.githubusercontent.com/DigitalDataServices/GeocortexTimeSlider/master/imgTimeSliderWidget.jpg)
 
 The Time Slider widget enables you to view temporal layers in a Map and to see how the layer data changes over time.  Using this widget, you can play or pause the temporal animation of the data, go to a previous time period, or advance to the next time period.
 
@@ -25,14 +26,14 @@ The minimum requirement is Geocortex Essentials 4.4.3 and Geocortex Viewer for H
 - [Usage](#usage)
 	- [Initial Configuration](#initial-configuration) 
 	- [Hiding and Showing the Time Slider Widget](#hiding-and-showing-the-time-slider-widget) 
-- [Custom Modifications](#custom-modifications)
+- [Limitations](#limitations)
 - [History](#history)
 - [Credits](#credits)
 - [License](#license)
 
 ### Installation ###
 
-This JavaScript module can be installed in either a Geocortex HTML5 Viewer directory or within a specific Site's HTML5 Viewer directory.
+This JavaScript module can be installed in either a Geocortex Viewer for HTML5 directory or within a specific Site's HTML5 Viewer directory.
 
 **Geocortex HTML5 Viewer Installation** - Available to all Geocortex HTML5 Viewers.
 
@@ -179,9 +180,9 @@ The Time Slider widget is automatically displayed during the HTML5 Viewer's init
 
 This custom `ShowTimeSliderControl` command can be easily invoked by creating a new `I want to...` Menu Item and setting `ShowTimeSliderControl` as the `Command` (the `Command Parameter` field should be left blank).  This provides the end-user with an instantly familiar path to redisplaying the Time Slider widget after it has been hidden.
 
-### Custom Modifications ###
+### Limitations ###
 
-The custom Time Slider JavaScript library that has been made available on [GitHub](https://github.com/) is fully functional and can be added to any of the supported Geocortex HTML5 Viewers listed in the [Requirements](#requirements) section.  However, the Time Slider widget, in its current implementation, is limited to only displaying Year-based temporal ranges.
+The custom Time Slider JavaScript library that has been made available on [GitHub](https://github.com/) is fully functional and can be added to any of the supported Geocortex Viewer for HTML5 listed in the [Requirements](#requirements) section.  However, the Time Slider widget, in its current implementation, is limited to only displaying Year-based temporal ranges.
 
 While it is possible to extend the widget's capabilites to include the display of Month, Day, or even Hour-based temporal ranges, such custom modifications would need to be implemented in-house by [Digital Data Services, Inc.](http://www.digitaldataservices.com/dds-contact-dds)  
 
@@ -189,7 +190,7 @@ Feel free to contact [us](http://www.digitaldataservices.com/dds-contact-dds) ab
 
 ### History ###
 
-2016-04-25 - Initial upload.
+2016-04-20 - Initial upload.
 
 ### Credits ###
 
