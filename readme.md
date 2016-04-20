@@ -16,7 +16,9 @@ In additional to the standard functionality provided by similar Esri or Silverli
 - Temporarily close and reopen the widget - giving you the ability to hide the Time Slider when it is not actively being used
 - Statically or dynamically configure the temporal boundaries (year range) to adjust to changing time-aware Layer content
 - Automatically persist the widget's properties and settings (such as its position, visibility, and temporal range)  - so that your Time Slider preferences are retained when a Geocortex session is closed and reopened
-  
+
+[![Geocortex Time Slider Demo](https://img.youtube.com/vi/ICR6NzpmtFI/0.jpg)](https://www.youtube.com/watch?v=ICR6NzpmtFI)
+
 ### Requirements ###
 
 The minimum requirement is Geocortex Essentials 4.4.3 and Geocortex Viewer for HTML5 2.5.2.  The component has also been tested on Geocortex Essentials 4.5 and Geocortex Viewer for HTML5 2.6. It may run on earlier versions of Geocortex Essentials and Geocortex Viewer for HTML5 - but it has not been tested.
