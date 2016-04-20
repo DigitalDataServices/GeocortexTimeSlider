@@ -9,7 +9,7 @@ This free JavaScript library that adds the ability to embed a 'Time Slider' widg
 
 The Time Slider widget enables you to view temporal layers in a Map and to see how the layer data changes over time.  Using this widget, you can play or pause the temporal animation of the data, go to a previous time period, or advance to the next time period.
 
-In additional to the standard functionality provided by similar Esri or Silverlight-based widgets, the Digital Data Services Time Slider widget for the HTML5 Viewer also allows you to:
+In additional to the standard functionality provided by similar Esri or Silverlight-based widgets, the [Digital Data Services](http://www.digitaldataservices.com/geocortex) Time Slider widget for the HTML5 Viewer also allows you to:
 
 - Drag and place the widget anywhere on the map
 - Horizontally resize the widget - expanding or compacting the Time Slider view in real-time
